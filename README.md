@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Fintech and Circular Economy application 
 - 💞️ I’m looking to collaborate on building an Open Source Deep Learning Platform which collects data from digital farms and give insights to our Growers. A deep-learning precision platform that delivers fresh fruits and vegetables with the help of computer vision and Block chain distributed ledger technology. 
 
-- 📫 How to reach me mail:  nithun@woolly.io 
+- 📫 To reach me - mail:  nithun@woolly.io 
 
 
